@@ -1,0 +1,18 @@
+# STM32CubeIDE build output and generated libraries (regenerate from the .ioc)
+Debug/
+Release/
+Drivers/
+.settings/
+*.launch
+# AVR / Atmel Studio build output
+*.o
+*.elf
+*.hex
+*.eep
+*.lss
+*.map
+*.srec
+.vs/
+# OS
+.DS_Store
+__MACOSX/
